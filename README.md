@@ -1,7 +1,7 @@
  ### Learning Line 🤓
 
 
-[![Blog](https://img.shields.io/website?label=Deploy&style=for-the-badge&url=https://https://learningline.vercel.app/)](https://https://learningline.vercel.app/)
+[![Blog](https://img.shields.io/website?label=Deploy&style=for-the-badge&url=https://learningline.vercel.app)](https://learningline.vercel.app)
 
 <div>
     <h2>About 🚨</h2>
